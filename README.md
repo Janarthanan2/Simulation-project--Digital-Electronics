@@ -27,3 +27,4 @@ not(f,fdash);
 endmodule 
 ```
 # REFERENCE
+![WhatsApp Image 2023-06-14 at 13 56 36](https://github.com/Janarthanan2/Simulation-project--Digital-Electronics/assets/119393515/639cc021-7bc2-40e5-8a09-a9f11261fd26)
